@@ -8,5 +8,6 @@ class Gitting
 	}
 	public static void new_git_method() {
 		System.out.println("hello 2.0");
+		System.out.println("hello 3.0");
 	}
 }
