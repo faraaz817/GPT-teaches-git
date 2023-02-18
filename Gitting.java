@@ -11,5 +11,6 @@ class Gitting
 	}
 	public static void new_branch() {
 		System.out.println("new branch");
+		System.out.print("Yooooo");
 	}
 }
